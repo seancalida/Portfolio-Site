@@ -26,6 +26,7 @@ body {
   float: left;
   margin-left: 2%;
   margin-top: 10px;
+  margin-bottom: 10px
   font-family: 'Roboto', sans-serif;
   color: #39ca74;
 }
@@ -42,7 +43,7 @@ ul {
 
 li {
   display: inline-block;
-  padding: 15px 30px;
+  padding: 10px 20px;
 }
 
 a {
